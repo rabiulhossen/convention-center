@@ -5,9 +5,23 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+
+/* carousel button  */
+
 .caro-btn-color {
     background-color: white;
     color: #FF6263;
     font-weight: 600;
     padding: 5px 10px;
+}
+
+
+/* card-button  */
+
+.card-btn {
+    background-color: rgb(225, 255, 221);
+}
+
+.card-button {
+    background-color: wheat;
 }
