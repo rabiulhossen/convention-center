@@ -1,0 +1,13 @@
+/* google font  */
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Sans:ital@0;1&display=swap');
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.caro-btn-color {
+    background-color: white;
+    color: #FF6263;
+    font-weight: 600;
+    padding: 5px 10px;
+}
