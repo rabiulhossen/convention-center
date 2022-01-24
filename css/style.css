@@ -25,3 +25,9 @@ body {
 .card-button {
     background-color: wheat;
 }
+
+@media (max-width:768px) {
+    .carousel-own {
+        height: 450px;
+    }
+}
